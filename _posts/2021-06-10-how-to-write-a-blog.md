@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "how to write a blog"
 date: 2021-06-10
 ---
