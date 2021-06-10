@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "how to write a blog"
+date: 2021-06-10
 ---
 
 # Welcome
