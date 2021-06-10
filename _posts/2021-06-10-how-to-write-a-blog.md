@@ -1,6 +1,6 @@
 ---
 title: "how to write a blog"
-date: YYYY-MM-DD
+date: 2021-06-10
 ---
 
 # Welcome
